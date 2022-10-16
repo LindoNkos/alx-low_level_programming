@@ -4,7 +4,7 @@
 /**
  * main-serves as the entry point for the program
  *
-i * Return: by default returns zero if no errors otherwise returns non-zero value.
+ * Return:by default returns zero if no errors otherwise returns non-zero value
  *
  */
 int main(void)
