@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * Main:Entry point for the program
+ *  main - Entry point
  * Return:return 0 if sucessful unless otherwise
- */
+*/
+
 int main(void)
 {
 
