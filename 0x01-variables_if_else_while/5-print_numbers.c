@@ -4,6 +4,7 @@
 
 /**
  * main - Entry point
+ * @i : an integer value 
  * Return: Always 0 (correct)
  */
 
